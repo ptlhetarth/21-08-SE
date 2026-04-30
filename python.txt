@@ -1,0 +1,31 @@
+python is the most powerful , interpreter , easy to understand and object oriented programming langauge 
+
+compiler : which is execute whole source file after completion
+interpreted : which is execute line by line source code 
+
+C , C++ compiler based programming language 
+python : interpreted based programming langauge 
+JAVA : java supports both 
+
+
+python is the open source and object oriented programming language which is available free of cost 
+
+why did you choose python ? 
+
+python is easy to understand , most popular m interpreted , programming language. python has huge library collection 
+python can easily integrate with any OS . 
+
+python was introduced in 1991 by guido van rossum and developed by the python software foundation.
+it was mainly developed for emphasis on code readability and it allows to express the programmer in fewer lines of code 
+
+it lets you work quickly and integrate the system efficiently 
+it has dynamic symentics, it's high level built in data structure with dynamic typing and dynamic binding make it very attractive for RAD model 
+
+python supports module and packages which encourages programming modularity and code reuse 
+
+the python interpreter and the extensive standarad library are available in source or binary form without charge for all major plateforms and can be freely distributed 
+
+features of the python 
+1) highly portable 
+2) extensible 
+3) designed to be easy to learn and master 
